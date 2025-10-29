@@ -1,0 +1,24 @@
+{
+  "name": "css_tailwind_cloning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIVINEakisa/CSS_Tailwind_Cloning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIVINEakisa/CSS_Tailwind_Cloning/issues"
+  },
+  "homepage": "https://github.com/DIVINEakisa/CSS_Tailwind_Cloning#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  }
+}
